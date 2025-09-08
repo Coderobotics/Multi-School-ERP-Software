@@ -3,7 +3,7 @@
 
 SmartCampus simplifies school management, helps to reduce manual works and generate complex reports effortlessly. Users are divided with different roles such as teachers, accounts, principal, administrator etc. Smart Campus provide simplicity of usage than complex features. Each user can view only little functionality on the basis of rights given to them. Smart Campus is the leading campus management application for the Microsoft web platform that empowers you to manage your School/College with access of staff, students and parents. It is easy to use and has all the modules of campus management such as Multi Branch School ERP, Staff Information System, Finance Payroll, Library, Transport, Gradebook, SMS, Email Communication, Mobile Attendance Register, Assignment, Lesson Plan, Event, Hostel, Placement, and Document Management. Smart Campus can help you reduce costs, increase flexibility and simplify School/ College management. Smart Campus simplifies school management, helps to reduce manual works and generate complex reports effortlessly. Users are divided with different roles such as teachers, accounts, principal, administrator etc. Smart Campus provides simplicity of usage than complex features.
 
-<img src="https://www.aspscriptsonline.com/wp-content/uploads/2016/08/SmartCampus-new1.png">
+<img src="https://www.aspscriptsonline.com/frontend/assets/templates/1738374945_13e699f38f5815e6c4ba.webp">
 
 <b>SmartCampus has the following key modules:</b>
 
@@ -27,5 +27,15 @@ SmartCampus simplifies school management, helps to reduce manual works and gener
 <li>SMS</li>
 <li>CCE Reports</li>
 </ul>
-<b>More details and download link:</b><br>
-<b>https://www.aspscriptsonline.com/product/multi-branch-school-erp/</b>
+
+More details and download script
+https://www.aspscriptsonline.com/product/asp.net-multi-school-erp-software
+
+If you're looking for readymade php scripts
+https://www.phpscriptsonline.com/products
+
+If you're looking for readymade ASP.Net, C# software source code
+https://www.aspscriptsonline.com/products
+
+If you're looking for digital marketing services, insights, AI-powered strategies.
+https://www.coderobotics.com/blog
